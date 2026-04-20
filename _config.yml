@@ -85,7 +85,7 @@ admin:
 # The cost of the event and the link to a site where they can register.
 registration:
   cost: $10.00
-  link: FIX ME
+  link: https://forms.gle/xKsaZ1dTywXxMsJs6
 
   
 # Sometimes Edit --------------------------------------------------------------
